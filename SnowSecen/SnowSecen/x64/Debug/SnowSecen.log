@@ -1,0 +1,54 @@
+﻿  Tree2D.cpp
+  Terrain.cpp
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\terrain.cpp(358): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(53): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\terrain.cpp(361): note: 参见对正在编译的函数 模板 实例化“bool SecenBase::BuildBuffers_<Vertex::TerrainVertice>(std::vector<Vertex::TerrainVertice,std::allocator<_Ty>> &,std::vector<UINT,std::allocator<unsigned int>> &)”的引用
+          with
+          [
+              _Ty=Vertex::TerrainVertice
+          ]
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(54): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  SnowParticle.cpp
+  SnowMan.cpp
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(53): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\snowman.cpp(143): note: 参见对正在编译的函数 模板 实例化“bool SecenBase::BuildBuffers_<Vertex::NormalTexVertice>(std::vector<Vertex::NormalTexVertice,std::allocator<_Ty>> &,std::vector<UINT,std::allocator<unsigned int>> &)”的引用
+          with
+          [
+              _Ty=Vertex::NormalTexVertice
+          ]
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(54): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  SnowDemo.cpp
+  Sky.cpp
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\sky.cpp(16): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\sky.cpp(17): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(53): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\sky.cpp(27): note: 参见对正在编译的函数 模板 实例化“bool SecenBase::BuildBuffers_<Vertex::BaseVertice>(std::vector<Vertex::BaseVertice,std::allocator<_Ty>> &,std::vector<UINT,std::allocator<unsigned int>> &)”的引用
+          with
+          [
+              _Ty=Vertex::BaseVertice
+          ]
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(54): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  SecenFactory.cpp
+  SecenBase.cpp
+  main.cpp
+  GeometryGenerator.cpp
+  GameTimer.cpp
+  Effects.cpp
+  Dx11Base.cpp
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\dx11base.cpp(282): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  debug.cpp
+  DDSTextureLoader.cpp
+  Common.cpp
+  Camera.cpp
+  Box.cpp
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(53): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\box.cpp(55): note: 参见对正在编译的函数 模板 实例化“bool SecenBase::BuildBuffers_<Vertex::NormalTexVertice>(std::vector<Vertex::NormalTexVertice,std::allocator<_Ty>> &,std::vector<UINT,std::allocator<unsigned int>> &)”的引用
+          with
+          [
+              _Ty=Vertex::NormalTexVertice
+          ]
+d:\游戏开发测试案例\我的考核\snowsecen\snowsecen\secenbase.h(54): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+  正在生成代码...
+Effects.obj : error LNK2019: 无法解析的外部符号 D3DX11CompileEffectFromFile，该符号在函数 "public: virtual bool __cdecl Effect::Init(struct ID3D11Device *,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >)" (?Init@Effect@@UEAA_NPEAUID3D11Device@@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z) 中被引用
+Effects11d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\x64\Debug\SnowSecen.exe : fatal error LNK1120: 1 个无法解析的外部命令

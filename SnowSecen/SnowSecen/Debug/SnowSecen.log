@@ -1,0 +1,26 @@
+﻿  Tree2D.cpp
+  Terrain.cpp
+  SnowParticle.cpp
+  SnowMan.cpp
+  SnowDemo.cpp
+  Sky.cpp
+  SecenFactory.cpp
+  SecenBase.cpp
+  main.cpp
+  GeometryGenerator.cpp
+  GameTimer.cpp
+  Effects.cpp
+  Dx11Base.cpp
+  debug.cpp
+  DDSTextureLoader.cpp
+  Common.cpp
+  Camera.cpp
+  Box.cpp
+  正在生成代码...
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4099: 未找到 PDB“Effects11d.pdb”(使用“Effects11d.lib(d3dxGlobal.obj)”或在“D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\Effects11d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Effects11d.lib(EffectAPI.obj) : warning LNK4099: 未找到 PDB“Effects11d.pdb”(使用“Effects11d.lib(EffectAPI.obj)”或在“D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\Effects11d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Effects11d.lib(EffectLoad.obj) : warning LNK4099: 未找到 PDB“Effects11d.pdb”(使用“Effects11d.lib(EffectLoad.obj)”或在“D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\Effects11d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4099: 未找到 PDB“Effects11d.pdb”(使用“Effects11d.lib(EffectNonRuntime.obj)”或在“D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\Effects11d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Effects11d.lib(EffectReflection.obj) : warning LNK4099: 未找到 PDB“Effects11d.pdb”(使用“Effects11d.lib(EffectReflection.obj)”或在“D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\Effects11d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Effects11d.lib(EffectRuntime.obj) : warning LNK4099: 未找到 PDB“Effects11d.pdb”(使用“Effects11d.lib(EffectRuntime.obj)”或在“D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\Effects11d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  SnowSecen.vcxproj -> D:\游戏开发测试案例\我的考核\SnowSecen\SnowSecen\Debug\SnowSecen.exe
